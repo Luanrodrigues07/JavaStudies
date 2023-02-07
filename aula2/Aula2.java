@@ -4,7 +4,7 @@ import java.util.Scanner;
 import javax.lang.model.util.ElementScanner6;
 
 public class Aula2 {
-public static void Main (String[] args) {
+public static void main(String[] args) {
 
 Locale.setDefault(Locale.US);
 Scanner sc = new Scanner(System.in);
